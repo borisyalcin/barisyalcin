@@ -1,1 +1,7 @@
-# barisyalcin.github.io
+# Data Analyst
+
+### Education
+
+### Work Experience
+
+### Projects
