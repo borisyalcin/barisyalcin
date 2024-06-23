@@ -1,4 +1,4 @@
-# Data Analyst
+# <center> Business Intelligence Analyst and Data Developer </center>
 
 ### Education
 
