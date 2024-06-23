@@ -61,8 +61,8 @@ Results-driven Business Intelligence Analyst with over 4 years of experience in 
 *	Supervised a team of 12 employees, providing mentorship and professional development opportunities.
 
 ### Education
-##### Post-Graduation, Data Science, Southern Methodist University, Dallas, TX
-##### Bachelor of Science, Education, T.C. Dumlupinar University, Kutahya, Turkiye
+* Post-Graduation, Data Science, Southern Methodist University, Dallas, TX
+* Bachelor of Science, Education, T.C. Dumlupinar University, Kutahya, Turkiye
 
 ### Technical Proficiencies 
 SQL Development | Python | Tableau | NO-SQL | ERP Management | Account Management| Big Data | SAS | Power BI | NetSuite | Microsoft SQL | ETL | GitHub | Workday | Jira | Workday | Hive | Snowflake | Cloud Management | Munis | Web Smart | Excel | VBA | DAX | JavaScript | HTML | CSS | D3.js | Web Embedding
