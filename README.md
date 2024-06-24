@@ -2,7 +2,7 @@
 
 ## <center> Resume </center>
 
-* <a href="https://github.com/borisyalcin/projects"> Please click here to see my professional projects </a>
+* <a href="https://github.com/borisyalcin/projects/"> Please click here to see my professional projects </a>
 
 ### Professional Summary
 
