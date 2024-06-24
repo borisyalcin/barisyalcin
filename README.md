@@ -22,6 +22,11 @@ Results-driven Business Intelligence Analyst with over 4 years of experience in 
 *	Strategic Implementations: Collaborated in the deployment of a new Customer Data Platform, successfully integrating two years of legacy data, and streamlining data operations.
 *	Developed an interactive dashboard in Power BI that tracked key performance indicators (KPIs) for various investment portfolios.
 *	Enabled senior management to monitor portfolio performance, compare against benchmarks, and make data-driven investment decisions.
+*	Managed end-to-end payroll processing for [number] employees using Workday Payroll system.
+* Resolved discrepancies in financial records and ensured accuracy of financial statements.
+* Assisted with external audits and provided necessary documentation.
+* Supported budgeting and forecasting processes by providing financial data and analysis.
+
 
 #### Data Analyst and BI Developer, Fisher Investments, Plano, TX | 12/2021-Present
 ##### Type: Investment Banking and Stock Market
